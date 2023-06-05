@@ -1,0 +1,31 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: rgb(244, 249, 249);
+  }
+  h1{
+    color: rgb(201, 126, 35);
+    text-align: center;
+  }
+  h3 {
+    color: #223123;
+    margin-bottom: 20px;
+  }
+
+  div{
+    text-align: center;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #9cdf9ef4;
+    color: #f9dada;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
